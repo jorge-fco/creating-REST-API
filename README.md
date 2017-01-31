@@ -17,6 +17,10 @@
 * 422 (Unprocessable Entity (Entidad no procesable)
 * 500 Internal Server Error (Error Interno de Servidor)
 
+### SOA (Service Oriented Architecture)
+Arquitectura Orientada a Servicios
+
+
 ### Web Services
 Métodos HTTP
 
@@ -33,7 +37,20 @@ Métodos HTTP
 ### Get Started Project
 * Server.
 * Modelo de Datos.
-* Framework.
+* Framework (PHP, Phyton, Rails).
 * REST-Client Tool.
+* Control Version.
+
+### Tools
+* MySQL WorkBench
+* WAMP Server
+* Advanced REST Client
+* Sublime Text o Atom
+
+
+### Folders
+Models
+Controllers
+
 
 
