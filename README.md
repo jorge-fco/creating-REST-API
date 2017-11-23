@@ -33,24 +33,3 @@ Métodos HTTP
 * 7.- OPTIONS
 * 8.- URI
 * 9.- CONNECT
-
-### Get Started Project
-* Server.
-* Modelo de Datos.
-* Framework (PHP, Phyton, Rails).
-* REST-Client Tool.
-* Control Version.
-
-### Tools
-* MySQL WorkBench
-* WAMP Server
-* Advanced REST Client
-* Sublime Text o Atom
-
-
-### Folders
-Models
-Controllers
-
-
-
